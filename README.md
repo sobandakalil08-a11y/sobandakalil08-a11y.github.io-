@@ -18,4 +18,4 @@ Flux de traitement automatique pour l'extraction d'images satellite.
 
 ---
 
-*Contact professionnel : [Ton adresse email ici]*
+*Contact professionnel : hamzaidman80@gmail.com
